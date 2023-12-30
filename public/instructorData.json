@@ -1,0 +1,54 @@
+[
+  {
+    "id": 1,
+    "name": "John Doe",
+    "email": "john.doe@example.com",
+    "image": "path/to/instructor_image_1.jpg",
+    "num_classes_taken": 5,
+    "classes_taken": [
+      {
+        "class_id": 101,
+        "class_name": "Introduction to Programming"
+      },
+      {
+        "class_id": 102,
+        "class_name": "Web Development Fundamentals"
+      },
+      {
+        "class_id": 103,
+        "class_name": "Data Structures and Algorithms"
+      },
+      {
+        "class_id": 104,
+        "class_name": "Machine Learning Basics"
+      },
+      {
+        "class_id": 105,
+        "class_name": "Advanced JavaScript"
+      }
+    ],
+    "see_classes_link": "/instructors/1/classes"
+  },
+  {
+    "id": 2,
+    "name": "Jane Smith",
+    "email": "jane.smith@example.com",
+    "image": "path/to/instructor_image_2.jpg",
+    "num_classes_taken": 3,
+    "classes_taken": [
+      {
+        "class_id": 201,
+        "class_name": "Digital Marketing Essentials"
+      },
+      {
+        "class_id": 202,
+        "class_name": "Social Media Strategies"
+      },
+      {
+        "class_id": 203,
+        "class_name": "Content Creation Workshop"
+      }
+    ],
+    "see_classes_link": "/instructors/2/classes"
+  }
+]

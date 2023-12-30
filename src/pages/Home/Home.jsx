@@ -4,6 +4,9 @@ const Home = () => {
   return (
     <div>
       <Banner />
+      {/* Popular Classes Section */}
+      {/* Popular Instructors Section */}
+      {/* Extra Section  */}
     </div>
   )
 }
